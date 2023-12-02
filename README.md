@@ -1,5 +1,10 @@
 
-# react-elastic-carousel
+# react-zerok-carousel
+
+The `react-zerok-carousel` is a clone of [`react-elastic-carousel`](https://sag1v.github.io/react-elastic-carousel/). The development of this clone was necessary to implement some adjustments in typing.
+
+
+`react-elastic-carousel`
 
 > A flexible and responsive carousel component for react
 
@@ -7,11 +12,11 @@
 
 ## Why do we need yet another carousel component
 
-- **Element resize support (true responsiveness)**  
+- **Element resize support (true responsiveness)**
   Most of the carousel components are responsive to the viewport size, but this is not a real responsive support as we can have an element with a `width:500px` on a `1200px` screen, most carousel component will "think" we are on a `1200px` mode because they "watch" the view-port's size and not the wrapping element's size.
   This is the reason why `react-eleastic-carousel` is using the [resize-observer](https://developers.google.com/web/updates/2016/10/resizeobserver) which gives us a true responsive support, not matter on what screen size we are.
-  
-- **RTL (right-to-left) support**  
+
+- **RTL (right-to-left) support**
   Supporting right-to-left languages requires a full support for right-to-left rendering and animations which is not supported in most of the carousel components out there. also, right-to-left support is [important and should be a standard for most applications](https://www.youtube.com/watch?v=A_3BfONFRUc).
 
 ## [Live Demos & Docs](https://sag1v.github.io/react-elastic-carousel/)
