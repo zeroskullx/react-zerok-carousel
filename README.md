@@ -4,8 +4,6 @@
 The `react-zerok-carousel` is a clone of [`react-elastic-carousel`](https://sag1v.github.io/react-elastic-carousel/). The development of this clone was necessary to implement some adjustments in typing.
 
 
-`react-elastic-carousel`
-
 > A flexible and responsive carousel component for react
 
 [![NPM](https://img.shields.io/npm/v/react-elastic-carousel.svg?style=flat-square)](https://www.npmjs.com/package/react-elastic-carousel) ![npm](https://img.shields.io/npm/dw/react-elastic-carousel?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-elastic-carousel?style=flat-square)
