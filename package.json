@@ -1,10 +1,10 @@
 {
-  "name": "react-elastic-carousel",
+  "name": "react-zerok-carousel",
   "version": "0.11.5",
   "description": "A flexible and responsive carousel component for react",
   "author": "sag1v (Sagiv Ben Giat)",
   "license": "MIT",
-  "repository": "sag1v/react-elastic-carousel",
+  "repository": "zeroskullx/react-zerok-carousel",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "types": "./dist/index.d.ts",
