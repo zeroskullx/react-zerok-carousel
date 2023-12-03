@@ -6,7 +6,7 @@ The `react-zerok-carousel` is a clone of [`react-elastic-carousel`](https://sag1
 
 > A flexible and responsive carousel component for react
 
-[![NPM](https://img.shields.io/npm/v/react-elastic-carousel.svg?style=flat-square)](https://www.npmjs.com/package/react-elastic-carousel) ![npm](https://img.shields.io/npm/dw/react-elastic-carousel?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-elastic-carousel?style=flat-square)
+[![NPM](https://img.shields.io/npm/v/react-zerok-carousel.svg?style=flat-square)](https://www.npmjs.com/package/react-zerok-carousel) ![npm](https://img.shields.io/npm/dw/react-zerok-carousel?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-zerok-carousel?style=flat-square)
 
 ## Why do we need yet another carousel component
 
@@ -17,23 +17,23 @@ The `react-zerok-carousel` is a clone of [`react-elastic-carousel`](https://sag1
 - **RTL (right-to-left) support**
   Supporting right-to-left languages requires a full support for right-to-left rendering and animations which is not supported in most of the carousel components out there. also, right-to-left support is [important and should be a standard for most applications](https://www.youtube.com/watch?v=A_3BfONFRUc).
 
-## [Live Demos & Docs](https://sag1v.github.io/react-elastic-carousel/)
+## [Live react-elastic-carousel Demos & Docs](https://sag1v.github.io/react-elastic-carousel/)
 
 ## Install
 
 ```bash
-npm install --save react-elastic-carousel
+npm install --save react-zerok-carousel
 ```
 
 or
 
 ```bash
-yarn add react-elastic-carousel
+yarn add react-zerok-carousel
 ```
 
 ### Note
 
-`react-elastic-carousel` is using [styled-components](https://github.com/styled-components/styled-components) for styling, this means that you should install it as well:
+`react-zerok-carousel` is using [styled-components](https://github.com/styled-components/styled-components) for styling, this means that you should install it as well:
 
 ```bash
 npm install --save styled-components
@@ -43,7 +43,7 @@ npm install --save styled-components
 
 ```jsx
 import React, { Component } from 'react';
-import Carousel from 'react-elastic-carousel';
+import Carousel from 'react-zerok-carousel';
 
 class App extends Component {
   state = {
@@ -69,13 +69,13 @@ class App extends Component {
 
 ## Playground
 
-[![Edit react-elastic-carousel](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/21o46mkwnr)
+[![Edit old react-elastic-carousel](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/21o46mkwnr)
 
 ## Development
 
 ```console
-git clone https://github.com/sag1v/react-elastic-carousel.git
-cd react-elastic-carousel
+git clone https://github.com/zeroskullx/react-zerok-carousel.git
+cd react-zerok-carousel
 yarn
 ```
 
@@ -96,3 +96,5 @@ The application is running at http://localhost:8888
 ## License
 
 MIT © [sag1v](https://github.com/sag1v)
+
+UPDATE [zeroksullx](https://github.com/zeroskullx)
