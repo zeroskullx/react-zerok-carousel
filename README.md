@@ -1,3 +1,23 @@
+## 🚨 Upgrade Notice: New Version Available! 🚨
+
+🚀 We've just released a major update to our package, introducing enhancements and additional features. Please note that this version is not compatible with the previous one, as significant changes have been made to the codebase.
+
+```bash
+npm i next-elastic-carousel
+```
+or
+```bash
+yarn add next-elastic-carousel
+```
+or
+```bash
+pnpm add next-elastic-carousel
+```
+🔶 **Beta Alert:** This is a beta release and requires further testing to ensure stability and compatibility.
+
+🔗 [NPM](https://www.npmjs.com/package/next-elastic-carousel)
+🔗 [New releases](https://github.com/zeroskullx/next-elastic-carousel/releases)
+
 
 # react-zerok-carousel
 
