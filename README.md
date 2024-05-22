@@ -19,7 +19,7 @@ pnpm add next-elastic-carousel
 🔗 [New releases](https://github.com/zeroskullx/next-elastic-carousel/releases)
 
 
-# react-zerok-carousel
+# `react-zerok-carousel` (This package has been discontinued)
 
 The `react-zerok-carousel` is a clone of [`react-elastic-carousel`](https://sag1v.github.io/react-elastic-carousel/). The development of this clone was necessary to implement some adjustments in typing.
 
@@ -42,13 +42,13 @@ The `react-zerok-carousel` is a clone of [`react-elastic-carousel`](https://sag1
 ## Install
 
 ```bash
-npm install --save react-zerok-carousel
+...
 ```
 
 or
 
 ```bash
-yarn add react-zerok-carousel
+...
 ```
 
 ### Note
@@ -56,7 +56,7 @@ yarn add react-zerok-carousel
 `react-zerok-carousel` is using [styled-components](https://github.com/styled-components/styled-components) for styling, this means that you should install it as well:
 
 ```bash
-npm install --save styled-components
+...
 ```
 
 ## Usage
